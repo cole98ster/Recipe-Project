@@ -1,0 +1,28 @@
+
+h1 {
+    background-color:lightyellow;
+    font-family: 'Times New Roman', 'Times', serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+
+h2{
+    font-family: 'Times New Roman', 'Times', serif;
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+
+body{
+    background-color:burlywood;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+button{
+    background-color: lightgreen;
+    color: white;
+    font-weight: bold;
+}
